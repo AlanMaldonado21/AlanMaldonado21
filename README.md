@@ -11,7 +11,7 @@ My name is Alan Maldonado, I'm 20 years old. I am passionate about constantly le
 
 - 🎓 &nbsp; Studying Computer Engineering.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about Cloud Tech, Design UX | UI .
 
 
 
