@@ -57,7 +57,6 @@ My name is Alan Maldonado, I'm 20 years old. I am passionate about constantly le
 
 <a href="https://www.linkedin.com/in/alan-ivan-maldonado/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alan%20Maldonado-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/alanmaldonado.i/?hl=es-la"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Alan-black?style=flat-square&logo=instagram"></a>
 
 <a href="maldonadoalanivan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/maldonadoalanivan@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
