@@ -9,7 +9,6 @@ My name is Alan Maldonado, I'm 20 years old. I am passionate about constantly le
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Engineering.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Design UX | UI | Web development
 
